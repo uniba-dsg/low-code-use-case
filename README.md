@@ -6,12 +6,12 @@ In [process-models](process-models) you can find the modeled thesis registration
 
 Current manual process:
 
-![process-models/current-manual-process.svg]
+![process-models/current-manual-process.svg](process-models/current-manual-process.svg)
 
 Envisioned partly automated process:
 
-![process-models/envisioned-automated-process.svg]
+![process-models/envisioned-automated-process.svg](process-models/envisioned-automated-process.svg)
 
 Excerpt considered in the implementation experiment:
 
-![process-models/envisioned-automated-process-excerpt.svg]
+![process-models/envisioned-automated-process-excerpt.svg](process-models/envisioned-automated-process-excerpt.svg)
